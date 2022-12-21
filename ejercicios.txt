@@ -1,0 +1,69 @@
+PREGUNTAS Y RESPUESTAS
+
+1.- QUE significa  html ?
+
+significa hypertext markup language = 'lenguage de marcas de hipertexto'
+
+
+2.-  Que signifca utilizar html semantico ?
+siginifca que debo utilizar las etiquetas correspondientes para la parte del sitio que correspinde. por ejemplo crear un footer con la etiqueta <footer></footer>
+
+3.- La anatomia de una pagina web es?
+ Header main sidebar y footer
+
+
+EJERCICIOS
+
+1.- Mira la imagen guardada sobre la anatomia de una web y hazlo con dos pagina youtube e instagram. 5,
+
+2.- hacer una estructura de una pagina web en html 5,
+
+3.- Hacer una lista del super y que cada producto te lleve a la pagina de google donde se encuentra 2,
+
+4.- mirar que cuales son los atributos y sus valores en cada etiqueta de html 3
+
+5.- poner una imagen con su etiqueta semantica 3
+6.- poner un video con su etiqueta semantica y ponerle sus atributos 3
+7.- hacer un form (form, label,span input) y luego los input tienen que ser de tipo nombre fecha y hora 2
+
+8.- has un input con select
+9.- datalis
+
+
+EJERCICIOS DE INTERNET
+http://desarrolloweb.dlsi.ua.es/libros/html-css/ejercicio-conceptos-basicos-2
+primer ejercicio 5,
+segundo ejercicio 5,
+tercer ejercicio 5,
+cuarto 5,
+quinto 5,
+sexto 5,
+septimo 5,
+octavo 5,
+noveno 4,
+decimo 4,
+undecimo 4,
+tredecimo 3,
+quattourdecimo 2,Final HTML practicas
+
+
+
+CCS
+-- Los elementos inline-block fluyen con el texto y demás elementos como si fueran elementos en-línea y además respetan el ancho, el alto y los márgenes verticales.
+-- Las seudos clases defininen el estilo de una clase 
+-- mientras que las seudo elementos definen las parte especifica de un elemento lo que va a llevar un elemento despues
+http://desarrolloweb.dlsi.ua.es/libros/html-css/ejercicios
+primero 2,
+segundo 2,
+tercero 2,
+- hacer un Header 4
+- Hacer un header sin display flex
+- hacer un header con active
+- hacer un header anhadiendole un seudo elemento
+- darle winth 100% a main sin tener que moverse
+- aplica el color rojo a todas las etiquetas de parafo que se encuentran al lado de un h2 (h2 + p{})
+- agrega color azul a todas las etiquetas de parafo que son hijos directos de una etiqueta div (div >  p)
+- agrega un hover color amarillo todas las etiequetas parafo que esten dentro de un div (div p)
+
+
+
