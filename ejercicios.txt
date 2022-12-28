@@ -57,13 +57,35 @@ primero 2,
 segundo 2,
 tercero 2,
 - hacer un Header 4
-- Hacer un header sin display flex
+- Hacer un header sin display flex, mira la imagen del display block para saber como funciona
 - hacer un header con active
 - hacer un header anhadiendole un seudo elemento
-- darle winth 100% a main sin tener que moverse
+- darle winth 100% a main sin tener que moverse, ( box-sizing: border-box )
 - aplica el color rojo a todas las etiquetas de parafo que se encuentran al lado de un h2 (h2 + p{})
 - agrega color azul a todas las etiquetas de parafo que son hijos directos de una etiqueta div (div >  p)
 - agrega un hover color amarillo todas las etiequetas parafo que esten dentro de un div (div p)
 
+--------------------------------------MEDIDAS---------------------------------------
 
+PX: es una medida absoluta.
+%, em, rem,, max-width / max-height, min-width / min-height, vw, vh : son medidas relativas.
+
+em -> siginifca elemento, toma el tamaño de fuente que tenga su padre directo y si no tiene coge del siguiente padre.
+
+rem -> de lo contrario coge el tamaño de fuente que tiene la etiqueta de html y es mucho mejor y buenas practicas
+
+
+margin: 0 auto -> le estamos diciendo al div o la equitea que no me ponga margin ni ariba ni abajo solo los lados y que el margin sea igual en los dos lados. has un ejemplo.
+
+
+min-height: 500px -> le estamos diciendo que la altura minnima que tendra sera 500px pero si llega de tener un contenido mas, quedate con ello hasta que deje de crecer
+
+max-height: 500px -> le estas doiciendo que lo maximo que tendra seran estos 500px de ahi no va crecer mas....
+
+has un ejercicio del screenshot que se encuentra en img, utiliza position relative y los max-height, y min-height.
+
+- Haz un ejercicio de una imagen que esta en img tiene un sidebar has sin flex y con flex;
+
+
+- Agregale una fuente de google fonts;
 
