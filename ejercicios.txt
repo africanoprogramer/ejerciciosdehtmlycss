@@ -18,16 +18,16 @@ EJERCICIOS
 
 2.- hacer una estructura de una pagina web en html 5,
 
-3.- Hacer una lista del super y que cada producto te lleve a la pagina de google donde se encuentra 2,
+3.- Hacer una lista del super y que cada producto te lleve a la pagina de google donde se encuentra 4,
 
-4.- mirar que cuales son los atributos y sus valores en cada etiqueta de html 3
+4.- mirar que cuales son los atributos y sus valores en cada etiqueta de html 4
 
-5.- poner una imagen con su etiqueta semantica 3
-6.- poner un video con su etiqueta semantica y ponerle sus atributos 3
-7.- hacer un form (form, label,span input) y luego los input tienen que ser de tipo nombre fecha y hora 2
+5.- poner una imagen con su etiqueta semantica 4
+6.- poner un video con su etiqueta semantica y ponerle sus atributos 4
+7.- hacer un form (form, label,span input) y luego los input tienen que ser de tipo nombre fecha y hora 3
 
-8.- has un input con select
-9.- datalis
+8.- has un input con select 1
+9.- datalis 1
 
 
 EJERCICIOS DE INTERNET
