@@ -18,16 +18,16 @@ EJERCICIOS
 
 2.- hacer una estructura de una pagina web en html 5,
 
-3.- Hacer una lista del super y que cada producto te lleve a la pagina de google donde se encuentra 4,
+3.- Hacer una lista del super y que cada producto te lleve a la pagina de google donde se encuentra 5,
 
-4.- mirar que cuales son los atributos y sus valores en cada etiqueta de html 4
+4.- mirar que cuales son los atributos y sus valores en cada etiqueta de html 5
 
-5.- poner una imagen con su etiqueta semantica 4
-6.- poner un video con su etiqueta semantica y ponerle sus atributos 4
-7.- hacer un form (form, label,span input) y luego los input tienen que ser de tipo nombre fecha y hora 3
+5.- poner una imagen con su etiqueta semantica 5
+6.- poner un video con su etiqueta semantica y ponerle sus atributos 5
+7.- hacer un form (form, label,span input) y luego los input tienen que ser de tipo nombre fecha y hora 5
 
-8.- has un input con select 1
-9.- datalis 1
+8.- has un input con select 3
+9.- datalis 3
 
 
 EJERCICIOS DE INTERNET
@@ -40,11 +40,11 @@ quinto 5,
 sexto 5,
 septimo 5,
 octavo 5,
-noveno 4,
-decimo 4,
-undecimo 4,
-tredecimo 3,
-quattourdecimo 2,Final HTML practicas
+noveno 5,
+decimo 5,
+undecimo 5,
+tredecimo 4,
+quattourdecimo 3,Final HTML practicas
 
 
 
@@ -53,9 +53,18 @@ CCS
 -- Las seudos clases defininen el estilo de una clase 
 -- mientras que las seudo elementos definen las parte especifica de un elemento lo que va a llevar un elemento despues
 http://desarrolloweb.dlsi.ua.es/libros/html-css/ejercicios
-primero 2,
-segundo 2,
+primero 3,
+segundo 3,
 tercero 2,
+cuarto 1,
+quinto 1,
+sexto 1,
+septimo 1,
+octavo,
+noveno,
+decimo,
+iundecimo,
+duodecimo,
 - hacer un Header 4
 - Hacer un header sin display flex, mira la imagen del display block para saber como funciona
 - hacer un header con active
