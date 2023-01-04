@@ -10,7 +10,8 @@
     margin: 0px;
     padding: 0px;
   font-family:  Georgia, Cambia, serif;
-  font-size: 16px;
+  font-size: 18px;
+  
   
     
 }
@@ -43,3 +44,81 @@ form{
   padding: 1rem;
 }
 
+
+/* a{
+  color: red;
+  text-decoration: none;
+ 
+}
+
+a:hover{
+  background-color: red;
+  color: white;
+  padding: 0.3rem;
+  text-decoration: underline;
+}
+
+
+a:active{
+  color: orange;
+  text-decoration: none;
+}
+
+a:visited{
+  color: green;
+  text-decoration: none;
+}
+
+a:focus{
+  color: #369;
+  text-decoration: none;
+} */
+
+
+a {
+  color: #F00;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #0A0;
+}
+
+a:hover {
+  color: #FFF;
+  background-color: #F00;
+  text-decoration: underline;
+}
+
+a:focus {
+  color: #00F;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #F60;
+  background-color: #FFF;
+  text-decoration: none;
+}
+
+
+#primero{
+  list-style: none;
+}
+
+
+#segundo{
+  list-style-type: circle;
+}
+
+#tercero{
+  list-style-type: square;
+}
+
+#cuarto{
+  list-style-type: lower-roman
+}
+
+#quinto{
+  list-style-type:lower-greek;
+}

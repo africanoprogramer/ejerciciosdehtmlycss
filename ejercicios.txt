@@ -26,8 +26,8 @@ EJERCICIOS
 6.- poner un video con su etiqueta semantica y ponerle sus atributos 5
 7.- hacer un form (form, label,span input) y luego los input tienen que ser de tipo nombre fecha y hora 5
 
-8.- has un input con select 3
-9.- datalis 3
+8.- has un input con select 4
+9.- datalis 4
 
 
 EJERCICIOS DE INTERNET
@@ -43,7 +43,8 @@ octavo 5,
 noveno 5,
 decimo 5,
 undecimo 5,
-tredecimo 4,
+doce 4,
+trece 1,
 quattourdecimo 3,Final HTML practicas
 
 
@@ -58,8 +59,8 @@ segundo 3,
 tercero 2,
 cuarto 1,
 quinto 1,
-sexto 1,
-septimo 1,
+sexto 2,
+septimo 2,
 octavo,
 noveno,
 decimo,
