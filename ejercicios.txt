@@ -45,7 +45,7 @@ decimo 5,
 undecimo 5,
 doce 5,
 trece 2,
-quattourdecimo 3,Final HTML practicas
+quattourdecimo 4,Final HTML practicas
 
 
 
@@ -59,12 +59,12 @@ segundo 3,
 tercero 2,
 cuarto 1,
 quinto 1,
-sexto 2,
-septimo 2,
-octavo,
-noveno,
-decimo,
-iundecimo,
+sexto 3,
+septimo 3,
+octavo 3,
+noveno 1,
+decimo 1,
+iundecimo 1,
 duodecimo,
 - hacer un Header 4
 - Hacer un header sin display flex, mira la imagen del display block para saber como funciona
