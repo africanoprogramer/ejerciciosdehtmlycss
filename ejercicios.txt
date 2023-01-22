@@ -67,13 +67,11 @@ decimo 1,
 iundecimo 1,
 duodecimo,
 - hacer un Header 4
+- hacer un header de google 1
 - Hacer un header sin display flex, mira la imagen del display block para saber como funciona
 - hacer un header con active
 - hacer un header anhadiendole un seudo elemento
 - darle winth 100% a main sin tener que moverse, ( box-sizing: border-box )
-- aplica el color rojo a todas las etiquetas de parafo que se encuentran al lado de un h2 (h2 + p{})
-- agrega color azul a todas las etiquetas de parafo que son hijos directos de una etiqueta div (div >  p)
-- agrega un hover color amarillo todas las etiequetas parafo que esten dentro de un div (div p)
 
 --------------------------------------MEDIDAS---------------------------------------
 
