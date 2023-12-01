@@ -32,12 +32,12 @@ EJERCICIOS
 
 EJERCICIOS DE INTERNET
 http://desarrolloweb.dlsi.ua.es/libros/html-css/ejercicio-conceptos-basicos-2
-primer ejercicio 5,
-segundo ejercicio 5,
-tercer ejercicio 5,
-cuarto 5,
-quinto 5,
-sexto 5,
+primer ejercicio 6,
+segundo ejercicio 6,
+tercer ejercicio 6,
+cuarto 6,
+quinto 6,
+sexto 6,
 septimo 5,
 octavo 5,
 noveno 5,
