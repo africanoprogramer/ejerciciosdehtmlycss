@@ -41,11 +41,10 @@ sexto 8,
 septimo 8,
 octavo 8,
 noveno 8,
-decimo 7,
-undecimo 6,
-doce 5,
-trece 2,
-quattourdecimo 4,Final HTML practicas
+decimo 8,
+undecimo 7,
+doce 6,
+formulario final
 
 
 
