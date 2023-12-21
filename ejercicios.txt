@@ -42,8 +42,8 @@ septimo 8,
 octavo 8,
 noveno 8,
 decimo 8,
-undecimo 7,
-doce 6,
+undecimo 8,
+doce 7,
 formulario final
 
 
