@@ -43,8 +43,8 @@ octavo 8,
 noveno 8,
 decimo 8,
 undecimo 8,
-doce 7,
-formulario final
+doce 8,
+formulario final 2
 
 
 
@@ -53,20 +53,20 @@ CCS
 -- Las seudos clases defininen el estilo de una clase 
 -- mientras que las seudo elementos definen las parte especifica de un elemento lo que va a llevar un elemento despues
 http://desarrolloweb.dlsi.ua.es/libros/html-css/ejercicios
-primero 3,
-segundo 3,
-tercero 2,
-cuarto 1,
-quinto 1,
+primero 4,
+segundo 4,
+tercero 4,
+cuarto 3,
+quinto 3,
 sexto 3,
 septimo 3,
 octavo 3,
-noveno 1,
-decimo 1,
-iundecimo 1,
+noveno 3,
+decimo 3,
+iundecimo 3,
 duodecimo,
-- hacer un Header 4
-- hacer un header de google 1
+- hacer un Header 3
+- hacer un header de google 3
 - Hacer un header sin display flex, mira la imagen del display block para saber como funciona
 - hacer un header con active
 - hacer un header anhadiendole un seudo elemento
