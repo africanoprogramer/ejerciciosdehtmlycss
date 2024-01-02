@@ -44,7 +44,7 @@ noveno 8,
 decimo 8,
 undecimo 8,
 doce 8,
-formulario final 2
+formulario final 3
 
 
 
@@ -53,9 +53,9 @@ CCS
 -- Las seudos clases defininen el estilo de una clase 
 -- mientras que las seudo elementos definen las parte especifica de un elemento lo que va a llevar un elemento despues
 http://desarrolloweb.dlsi.ua.es/libros/html-css/ejercicios
-primero 4,
-segundo 4,
-tercero 4,
+primero 5,
+segundo 5,
+tercero 5,
 cuarto 3,
 quinto 3,
 sexto 3,
