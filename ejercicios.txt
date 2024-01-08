@@ -59,13 +59,13 @@ tercero 6,
 
 cuarto 6,
 
-quinto 4,
+quinto 6,
 
-sexto 4,
-septimo 4,
-octavo 3,
-noveno 3,
-decimo 3,
+sexto 6,
+septimo 6,
+octavo 5,
+noveno 4,
+decimo 4,
 iundecimo 3,
 duodecimo,
 - hacer un Header 3
