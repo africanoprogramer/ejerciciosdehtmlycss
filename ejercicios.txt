@@ -63,11 +63,11 @@ quinto 6,
 
 sexto 6,
 septimo 6,
-octavo 5,
-noveno 4,
-decimo 4,
+octavo 6,
+noveno 6,
+decimo 6,
 iundecimo 3,
-duodecimo,
+duodecimo 3,
 - hacer un Header 3
 - hacer un header de google 3
 - Hacer un header sin display flex, mira la imagen del display block para saber como funciona
