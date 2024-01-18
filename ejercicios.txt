@@ -66,8 +66,9 @@ septimo 6,
 octavo 6,
 noveno 6,
 decimo 6,
-iundecimo 3,
-duodecimo 3,
+iundecimo 4,
+duodecimo 3, Maquetacion formulario,
+doce 3,
 - hacer un Header 3
 - hacer un header de google 3
 - Hacer un header sin display flex, mira la imagen del display block para saber como funciona
