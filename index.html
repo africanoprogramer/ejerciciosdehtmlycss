@@ -1,103 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <style>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <main>
+      <h1>Los tres pilares de la Web</h1>
+      <section>
+        <article>
+          <h2>Introduccion</h2>
+          <p>
+            Tim Berners-Lee es considerado el padre de la Web porque desarrolló
+            los tres elementos básicos para el funcionamiento de la Web:
+          </p>
+          <ul>
+            <li><a href="http://">HTML</a></li>
+            <li><a href="http://">HTTP</a></li>
+            <li><a href="http://">URL</a></li>
+          </ul>
+        </article>
+      </section>
 
-label{
- font-weight: bold;
- display: block;
-}
+      <section>
+        <h2>HTML</h2>
+        <p>
+          HTML, siglas de HyperText Markup Language, hace referencia al lenguaje
+          de marcado para la elaboración de páginas web. Es un estándar que
+          sirve de referencia para la elaboración de páginas web en sus
+          diferentes versiones, define una estructura básica y un código
+          (denominado código HTML) para la definición de contenido de una página
+          web, como texto, imágenes, entre otros. Es un estándar a cargo de la
+          W3C, organización dedicada a la estandarización de casi todas las
+          tecnologías ligadas a la web, sobre todo en lo referente a su
+          escritura e interpretación. Es el lenguaje con el que se definen las
+          páginas web.
+        </p>
 
-#inline, #inline2, #inline3{
- display: inline;
-}
-  </style>
-</head>
-<body>
-<main id="contenedor_principal">
-<form action="post">
-<fieldset>
-  <legend>Quien eres</legend>
-  <p>
-    <label for="nombre">Nombre: </label>
-    <input type="text" name="nombre" id="nombre">
-    <label for="apellidos">Apellidos:</label>
-    <input type="text" name="apellidos" id="apellidos">
-  </p>
-  <p>
-    <label for="email">Coprreo electronico:</label>
-    <input type="email" name="email" id="email">
-  </p>
-  <p>
-     <label for="datebirth">Fecha de nacimiento</label>
-    <select name="dia" id="dia">
-      <option value="Selecionan">Dia</option>
-      <option value="1">1</option>
-      <option value="2">2</option>
-      <option value="3">3</option>
-      <option value="4">4</option>
-      <option value="5">5</option>
-      <option value="6">6</option>
-      <option value="7">7</option>
-      <option value="8">8</option>
-      <option value="9">9</option>
-      <option value="10">10</option>  
-    </select>
+        <small>Fuente:<a href="http://"> HTML</a>, Wikipedia</small>
+      </section>
 
-      <select name="mes" id="mes">
-      <option value="Selecionan">Mes</option>
-      <option value="Enero">Enero</option>
-      <option value="Febrero">Febrero</option>
-      <option value="Marzo">Marzo</option>
+      <section>
+        <h2>HTTP</h2>
+        <p>
+          <strong>Hypertext Transfer Protocol</strong> o HTTP (en español
+          protocolo de transferencia de hipertexto) es el protocolo usado en
+          cada transacción de la World Wide Web. HTTP fue desarrollado por el
+          World Wide Web Consortium y la Internet Engineering Task Force,
+          colaboración que culminó en 1999 con la publicación de una serie de
+          RFC, el más importante de ellos es el RFC 2616 que especifica la
+          versión 1.1.
+        </p>
 
-    </select>
+        <small>Fuente: <a href="http://">HTTP</a>, Wikipedia</small>
+      </section>
 
+      <section>
+        <h2>URL</h2>
 
-       <select name="year" id="year">
-      <option value="year">year</option>
-      <option value="2022">2022</option>
-      <option value="2023">2023</option>
-      <option value="2024">2024</option>
+        <p>
+          Un<strong>localizador de recursos uniforme</strong> o URL —siglas en
+          inglés de Uniform Resource Locator— es un identificador de recursos
+          uniforme (URI) cuyos recursos referidos pueden cambiar, esto es, la
+          dirección puede apuntar a recursos variables en el tiempo. Están
+          formados por una secuencia de caracteres, de acuerdo a un formato
+          modélico y estándar, que designa recursos en una red, como Internet.
+        </p>
+        <small>Fuente:<a href="http://"> URL</a>, Wikipedia</small>
+      </section>
+    </main>
 
-    </select>
-  </p>
-</fieldset>
-
-
-<fieldset>
-  <legend>DE DONDE ERES ?</legend>
-<p>
-  <label for="ciudad">Ciudad:</label>
-  <input type="text" id="ciudad" name="ciudad">
-</p>
-<label for="pais">pais:</label>
-<select name="pais" id="pais">
-  <option value="guinea ecuatorial">guinea ecuatorial</option>
-  <option value="españa">España</option>
-</select>
-
-</fieldset>
-
-<fieldset>
-  <legend>CONDICIONES DE REGISTRO</legend>
-
- <div id="inline-element">
-  <p>Deseo recibir ofertas de !DESWEB</p>
-  <p id="inline">
-     <input type="radio"> una vez al dia
-  </p>
-
-  <p id="inline2">
-     <input type="radio"> una vez a la semana
-  </p>
-  <p id="inline3">
-     <input type="radio"> una vez al mes
-  </p>
- </div>
-</fieldset>
-</main>
-</body>
+    <script src="./main.js"></script>
+  </body>
 </html>

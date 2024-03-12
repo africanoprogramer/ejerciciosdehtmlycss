@@ -8,39 +8,44 @@ significa hypertext markup language = 'lenguage de marcas de hipertexto'
 2.-  Que signifca utilizar html semantico ?
 siginifca que debo utilizar las etiquetas correspondientes para la parte del sitio que correspinde. por ejemplo crear un footer con la etiqueta <footer></footer>
 
-3.- La anatomia de una pagina web es?
- Header main sidebar y footer
+3.- Citar todas etiquetas que conoces y sus usos
+h1: titulo inicial
+h2: subtitulo
+h3: 
+h4:
+h5:
+h6:
+p: parafo para una describsion
+strong : para destacar una frace
+em: para curvas
+ul>li: listas desordenadas
+ol>li: para listas ordenadas
+<img hidden- para esconderlo title='' alt='' src=''>: para imagenes
+id='es cuando hay un solo elmento de este tipo'
+class=' es cuando usamos para mucho elementos por ejemplo una lista'
+secction: cuando se trata de un tema en particula, por ejeccion logistica
+article: cuando se trata de un articulo y mayormente se pone dentro de headers
+small: para temas de titulos de copyrithg
+aside: es para cuando quieres poner un contenido aparte, como el sidebar o algun contenido
+el main no puede ir header ni el footer, solo es para el contenido principal
+datalist
 
 
-EJERCICIOS
-
-1.- Mira la imagen guardada sobre la anatomia de una web y hazlo con dos pagina youtube e instagram. 5,
-
-2.- hacer una estructura de una pagina web en html 5,
-
-3.- Hacer una lista del super y que cada producto te lleve a la pagina de google donde se encuentra 5,
-
-4.- mirar que cuales son los atributos y sus valores en cada etiqueta de html 5
-
-5.- poner una imagen con su etiqueta semantica 5
-6.- poner un video con su etiqueta semantica y ponerle sus atributos 5
-7.- hacer un form (form, label,span input) y luego los input tienen que ser de tipo nombre fecha y hora 5
-
-8.- has un input con select 5
-9.- datalis 5
-
+4.- que es un elmento
 
 EJERCICIOS DE INTERNET
 http://desarrolloweb.dlsi.ua.es/libros/html-css/ejercicio-conceptos-basicos-2
-primer ejercicio 8,
-segundo ejercicio 8,
-tercer ejercicio 8,
-cuarto 8,
-quinto 8,
-sexto 8,
+primer ejercicio 9,
+segundo ejercicio 9,
+tercer ejercicio 9,
+cuarto 9,
+quinto 9,
+sexto - enlaces 9,
 septimo 8,
 octavo 8,
 noveno 8,
+haz un datalis, tiene option y el input esta aparte 1
+hacer un sumary - >
 decimo 8,
 undecimo 8,
 doce 8,
@@ -66,7 +71,7 @@ septimo 6,
 octavo 6,
 noveno 6,
 decimo 6,
-iundecimo 4,
+iundecimo 5,
 duodecimo 3, Maquetacion formulario,
 doce 3,
 - hacer un Header 3
